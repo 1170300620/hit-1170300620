@@ -3,3 +3,4 @@ This is just a repository about the problem of convex hull. The source code is c
 You can make any change to it, but you should read the CODE_OF_CONDUCT first and obey the rules.
 
 Environment : Eclipse Java
+Style of code : Google style
