@@ -2,6 +2,10 @@ package test;
 
 /**
  * An immutable point in floating-point pixel space.
+ * AF (x,y)= a point with the double x as the  x-coordinate,double y as the  y-coordinate
+ * Representation invariant:
+ * Safety from rep exposure:
+ * All fields are private final;
  */
 public class Point {
 
